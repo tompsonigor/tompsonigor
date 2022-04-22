@@ -8,10 +8,10 @@
 <!--- 👯 I’m looking to collaborate on ...-->
 <!---- 🤔 I’m looking for help with ...-->
 
-<div align="left">
+<div style="display: inline_block">
   <a href="https://github.com/tompsonigor">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tompsonigor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="576" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tompsonigor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tompsonigor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tompsonigor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
