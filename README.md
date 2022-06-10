@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Fullfill my Github with nice projects to get a Job! 
-- 🌱 I’m currently learning Bootstrap, React, JAVA, Springboot
+- 🌱 I’m currently learning React, JAVA, Spring Framework
 - 💬 Ask me about anything, just ask!
 - 😄 Pronouns: He/Him
 <!---- ⚡ Fun fact: ...-->
