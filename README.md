@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fullfill my Github with nice projects to get a Job! 
+- 🔭 I’m currently working on Fullfill my Github with nice projects! 
 - 🌱 I’m currently learning React, JAVA, Spring Framework
 - 💬 Ask me about anything, just ask!
 - 😄 Pronouns: He/Him
